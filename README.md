@@ -1,93 +1,68 @@
 # 472499-objeto
 Bitácora del curso Tecnología Aplicada III: Objeto - 2026
 
-## Secciones
-
-| n | docente           | web | horario                   | enlace                                                   |
-| - | ----------------- | --- | ------------------------- | -------------------------------------------------------- |
-| 1 | christian oyarzún | [error404.cl](https://error404.cl/) | viernes 10:00am - 12:50pm |                                                          |
-| 2 | poli mujica       | [polimujica.xyz](https://www.polimujica.xyz/) | viernes 10:00am - 12:50pm |                                                          |
-| 3 | sofía suazo       | [sofialuisa.xyz](https://www.sofialuisa.xyz/) | viernes 10:00am - 12:50pm |                                                          |
-| 4 | aarón montoya     | [montoyamoraga.io](https://montoyamoraga.io/) | viernes 02:30pm - 05:20pm | <https://github.com/disenoUDP/dis09214-2026-1-seccion-4> |
-| 5 | matías serrano    | [misaa.cc](https://www.misaa.cc) | viernes 02:30pm - 05:20pm | <https://github.com/disenoUDP/dis09214-2026-1-seccion-5> |
-| 6 | sofía suazo       | [sofialuisa.xyz](https://www.sofialuisa.xyz/) | viernes 02:30pm - 05:20pm |                                                          |
-
-## Contenido
-
-### Unidad 1
-
-* Cultura computacional
-* Dibujo 2D con p5.js
-* Primitivas y texto
-* Variables y tiposradores
-
-### Unidad 2
-
-* Iteradores
-* Condicionales y lógica
-* Tiempo
-* Aleatoreidad
-* Color
-
-### Unidad 3
-
-* Web estática
-* Interactividad
-* Funciones
-* Texto
-* Objetos
+Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.pdf)
 
 ## Calendario
 
-| sesión | fecha |                          tema                          |
-|:------:|:-----:|:------------------------------------------------------:|
-| x      | 03-13 | no hay clases por día caturro                          |
-|      1 | 03-20 | introducción al curso, cultura computacional, intro p5 |
-|      2 | 03-27 | primitivas, texto                                      |
-| x      | 04-03 | no hay clases por semana santa                         |
-|      3 | 04-10 | solemne 1 (afiche primitivo)                           |
-|      4 | 04-17 | variables y tipos, imágenes externas                   |
-|      5 | 04-24 | iteradores, condicionales y lógica                     |
-| x      | 05-01 | no hay clases por 1 de mayo                            |
-| x      | 05-08 | no hay clases por receso                               |
-|      6 | 05-15 | funciones                                              |
-|      7 | 05-22 | aleatoreidad e interactividad                          |
-|      8 | 05-29 | web estática en html                                   |
-|      9 | 06-05 | solemne 2 - afiche dinámico                            |
-|     10 | 06-12 | repaso y anteproyecto                                  |
-|     11 | 06-19 | repaso y anteproyecto                                  |
-|     12 | 06-26 | examen                                                 |
+|     sesión    | fecha |                                tema                               |
+|:-------------:|:-----:|:-----------------------------------------------------------------:|
+|             1 | 12-03 | bienvenida, programa, objetivos (concepto/técnica/documentación)  |
+|             2 | 19-03 | ¿qué es un objeto? introducción OOO, caminar es un objeto, GitHub |
+|             3 | 26-03 | cómo construir una metáfora                                       |
+|             4 | 02-04 | uso de arrays en programación, aplicación sensor logger           |
+|             5 | 09-04 | uso de data sets en .csv y ordenamiento de datos                  |
+|             6 | 16-04 | visualización de datos de gps en processing                       |
+|             7 | 23-04 | arte basado en datos, dispositivos hechizos                       |
+|             8 | 30-04 | ensamblaje de data logger                                         |
+|             9 | 07-05 | uso de datos recogidos en visualización en processing             |
+|            10 | 14-05 | metodología de doble diamante                                     |
+|            ~~11~~ | 21-05 |          feriado                                                         |
+|            12 | 28-05 | primer anteproyecto                                               |
+|            13 | 04-06 | avance proyecto y evaluación                                      |
+|            14 | 11-06 | avance proyecto                                                   |
+|            15 | 18-06 | última clase previa examen / avance proyecto                      |
+| por confirmar | 25-06 | examen                                                            |
 
 ## Evaluaciones
 
-## Bibliografía
+1. Primera visualización en Processing
 
-* Maeda, John. Design by Numbers. 1. paperback ed. MIT Press, 2001.
+2. Construcción de datalogger
 
-* Maeda, John. How to Speak Machine: Computational Thinking for the Rest of Us. Portfolio/Penguin, 2019.
+3. Anteproyecto
 
-* Levin, Golan. Code As Creative Medium: A Handbook for Computational Art and Design. With Tega Brain. The MIT Press Ser. MIT Press, 2021.
+Todas las evaluaciones contemplan un aspecto de su evaluación el avance de proceso en su bitácora de GitHub
 
-* Reas, Casey, Chandler McWilliams, y Jeroen Barendse. Form+code in Design, Art, and Architecture. 1st ed., [Nachdr.]. With L.U.S.T. Design Briefs. Princeton Architectural Press, 2011.
+## Bibliografía obligatoria
 
-* Lodder, Christina. El constructivismo ruso (Cap. 1). Traducido por María Cóndor Orduña. Alianza Editorial, 1988.
+* Alcalde, Ignasi. *Visualización de la información: de los datos al conocimiento* (pp. 39-56). 1.a ed. Barcelona: Editorial UOC, 2015. Print.<https://uniacc.primo.exlibrisgroup.com/permalink/56UNIACC_INST/5enrp2/cdi_proquest_ebookcentral_EBC7025998>
 
-* Gubbins, Martín. E][S][C][A][L][A][S. 1st edition. Editado por José Luis Bobadilla Acevedo. Mangos de hacha, 2011.
+* Harman, Graham, y Laureano Ralón. *El objeto cuádruple: una metafísica de las cosas después de Heidegger* (pp. 3-17). Primera edición. vol. 98. Barcelona: Anthropos, 2016. Print. <https://uniacc.primo.exlibrisgroup.com/permalink/56UNIACC_INST/5enrp2/cdi_casalini_books_4651135>
 
-* Kane, Carolyn L. Chromatic Algorithms: Synthetic Color, Computer Art, and Aesthetics after Code. University of Chicago Press, 2014. https://press.uchicago.edu/ucp/books/book/chicago/C/bo14526320.html.
+* Pérez Iturra, Gabriela, y Claudia Aravena Abughosh. «La influencia de los dispositivos tecnológicos en el arte : caminar es un objeto.» Memoria (Licenciada en Artes Visuales) -- UNIACC (Chile), 2016., 2016. Print. <https://uniacc.primo.exlibrisgroup.com/permalink/56UNIACC_INST/m3p2t5/alma990000252020107686>
 
-* Cox, Geoff, y Winnie Soon. Aesthetic Programming: A Handbook of Software Studies. Open Humanites Press, 2021. https://www.openhumanitiespress.org/books/titles/aesthetic-programming/.
+## Bibliografía complementaria
+
+* Arribas, Brais González. “Fundamentos ontológicos de una ética ecológica en el marco de la ontología orientada a objetos.” *Éndoxa* 51 (2023): 193–208. Web. https://uniacc.primo.exlibrisgroup.com/permalink/56UNIACC_INST/5enrp2/cdi_proquest_journals_2828915170
+
+* Michel Foucault. *Las palabras y las cosas* (Prefacio). Mexico City:Siglo XXI Editores México. Print. https://uniacc.primo.exlibrisgroup.com/permalink/56UNIACC_INST/m3p2t5/alma99442898007686
+
+* Reas, Casey, Chandler McWilliams, and Jeroen Barendse. *Form+Code in Design, Art, and Architecture*. 1st ed. New York: Princeton Architectural Press, 2010. Print.  https://uniacc.primo.exlibrisgroup.com/permalink/56UNIACC_INST/5enrp2/cdi_proquest_ebookcentral_EBC3387346
 
 ## Recursos en línea
 
-* P5js.org <https://p5js.org/reference/>
+* Herramientas de visualización de datos <https://selection.datavisualization.ch/>
 
-* Design manifestos <https://designmanifestos.org/>
+* Archivo de datos abiertos <https://datahub.io/collections>
 
-  * [John Maeda - Laws of simplicity](https://designmanifestos.org/john-maeda-the-laws-of-simplicity/)
-  * [Sister Corita Kent - Immaculate Heart College Art Department Rules](https://designmanifestos.org/sister-corita-kent-immaculate-heart-college-art-department-rules/)
-  * [Charles Eames - Advice for students](https://designmanifestos.org/charles-eames-advice-for-students/)
+* Patches PD para sonificación <https://github.com/interspecifics/bio-exploraciones/tree/main/Automatonism_Tutorial>
+
+* Ortega y Gasset: Ensayo de estética a modo de Prólogo 📘 <https://drive.google.com/file/d/1J5pgiKQzw8t0CKJz6tit1hILW7Pw25qg/view?usp=drive_link>
+
+* Graham Harman: La Tercera Mesa 📘 <https://drive.google.com/file/d/1TUO6qJsM8eRhMOCqotDf9JHZkNk53ggb/view?usp=drive_link>
+
+* Yuk Hui: ¿Qué es un objeto digital? 📘 <https://drive.google.com/file/d/1Im7rXM7VRsU0kc3dTph2kSMmRbEARIi5/view?usp=drive_link>
 
 * The Coding Train <https://thecodingtrain.com/>
 
-* De Stijl
