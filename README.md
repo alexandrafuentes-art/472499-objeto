@@ -20,21 +20,21 @@ Programa del curso: [./archivos/objeto-programa.pdf](./archivos/objeto-programa.
 
 |     sesión    | fecha |                                tema                               |
 |:-------------:|:-----:|:-----------------------------------------------------------------:|
-|             1 | 12-03 | bienvenida, programa, objetivos (metáfora/técnica/documentación)  |
-|             2 | 19-03 | ¿qué es un objeto? introducción OOO, caminar es un objeto, GitHub |
-|             3 | 26-03 | cómo construir una metáfora                                       |
-|             4 | 02-04 | uso de arrays en programación, aplicación sensor logger           |
-|             5 | 09-04 | uso de data sets en .csv y ordenamiento de datos                  |
-|             6 | 16-04 | visualización de datos de gps en processing                       |
-|             7 | 23-04 | arte basado en datos, dispositivos hechizos                       |
-|             8 | 30-04 | ensamblaje de data logger                                         |
-|             9 | 07-05 | uso de datos recogidos en visualización en processing             |
-|            10 | 14-05 | metodología de doble diamante                                     |
-|            ~~11~~ | 21-05 |          feriado                                                         |
-|            12 | 28-05 | primer anteproyecto                                               |
-|            13 | 04-06 | avance proyecto y evaluación                                      |
-|            14 | 11-06 | avance proyecto                                                   |
-|            15 | 18-06 | última clase previa examen / avance proyecto                      |
+|             00 | 12-03 | bienvenida, programa, objetivos (metáfora/técnica/documentación)  |
+|             01 | 19-03 | ¿qué es un objeto? introducción OOO, caminar es un objeto, GitHub |
+|             02 | 26-03 | cómo construir una metáfora                                       |
+|             03 | 02-04 | uso de arrays en programación, aplicación sensor logger           |
+|             04 | 09-04 | uso de data sets en .csv y ordenamiento de datos                  |
+|             05 | 16-04 | visualización de datos de gps en processing                       |
+|             06 | 23-04 | arte basado en datos, dispositivos hechizos                       |
+|             07 | 30-04 | ensamblaje de data logger                                         |
+|             08 | 07-05 | uso de datos recogidos en visualización en processing             |
+|            09 | 14-05 | metodología de doble diamante                                     |
+|            ~~10~~ | 21-05 |          feriado                                                         |
+|            11 | 28-05 | primer anteproyecto                                               |
+|            12 | 04-06 | avance proyecto y evaluación                                      |
+|            13 | 11-06 | avance proyecto                                                   |
+|            14 | 18-06 | última clase previa examen / avance proyecto                      |
 | por confirmar | 25-06 | examen                                                            |
 
 ## Evaluaciones
