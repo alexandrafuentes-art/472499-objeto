@@ -58,3 +58,56 @@ void draw() {
 
 
 ```
+
+## Mi primer array en Procesing
+
+```processing
+int tamano = 50;
+int i = 0; //para crear un índice que recorrerá la animación
+
+
+//vamos a trabajar con la temperatura
+//(ficticia) de los últimos 7 dias
+//las temperaturas fueron
+// 10, 40, 15, 17, 30, 28, 26
+
+//lo implementamos en un array llamado temperatura
+int[] temperatura = {10, 40, 15, 17, 30, 28, 26};
+//estos elementos tienen un índice que parte en 0
+// temperatura[0] sería 10
+// temperatura[2] sería 15
+// temperatura[5] sería 28
+
+void setup() {
+  size(300, 300);
+  //forzar que los fps vayan a 30
+  frameRate(1);
+}
+
+void draw() {
+  background(0);
+  //puedo hacer que el tamaño dependa
+  //de la temperatura asociada al frameCount
+  
+  tamano = temperatura[i];
+  
+  //tamano = frameCount;
+  
+  print(frameCount);
+  print(" - ");
+  println(tamano);
+  fill(220,220,100);
+  circle(150,150,tamano);
+  
+  i = i + 1 ;
+  if (i > 6){
+    i = 0;
+  }
+}
+
+```
+
+## Encargo próxima clase
+
+- Descargar aplicación Sensor Logger (iOS / Android)
+- Traer una grabación de datos aplicados al sensor que quieran.
