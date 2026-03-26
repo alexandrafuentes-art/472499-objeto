@@ -8,6 +8,10 @@ Libro recomendado: El poder del arte (Markus Gabriel) <https://uniacc.primo.exli
 
 <https://uniacc.primo.exlibrisgroup.com/permalink/56UNIACC_INST/pe331d/alma99364425907686>
 
+## Registro de video
+
+<https://youtu.be/RtEpY9N_5Aw>
+
 ## Animacion temperatura processing poco eficiente
 
 ```processing
