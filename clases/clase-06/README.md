@@ -60,7 +60,27 @@ void setup() {
   rectMode(CENTER);
 }
  ```
+<<<<<<< HEAD
+
+ ### Como hacer una visualización con ayuda de AI
+
+ Ejemplo:
+
+ 1. Que haga un pinguino en Processing
+ 2. Que ese pinguino cambie (color, tamaño)
+ 3. ¿Qué datos quiero usar? En este caso será T° antártica durante 2025
+ 4. Como va a afectar eso al pinguino (va a cambiar color?  qué tan rápido? quiero saber en qué fecha estoy?)
+ 5. Bonus: Quiero que sea en tiempo real. La T° actual de la antártica.
+
+ ## Encargos para próxima semana
+
+ 1. Ordenar repositorio
+ 2. Investigar sobre editorial HAMBREHAMBREHAMBRE
+ 
+=======
 
 ## Bitácora de ejemplo
 
 <https://github.com/disenoUDP/dis8644-2025-1-procesos/tree/main/10-Bernardita-lobo/sesion-07a
+
+>>>>>>> 5fb4cee5389249db41e814fe567d06c8d46a287a
