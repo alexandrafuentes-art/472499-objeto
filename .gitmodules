@@ -37,3 +37,6 @@
 [submodule "bitacoras/SvtrWilly"]
 	path = bitacoras/SvtrWilly
 	url = https://github.com/SvtrWilly/TECNOLOG-A-APLICADA---OBJETO
+[submodule "bitacoras/JSNorambuena"]
+	path = bitacoras/JSNorambuena
+	url = https://github.com/JSNorambuena/472499-objeto-bitacora

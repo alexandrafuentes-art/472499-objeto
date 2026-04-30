@@ -9,7 +9,7 @@
 | PÉREZ FAÚNDES CONSTANZA ESTEFANIA         | https://github.com/constanzaperez1/472499-objeto-bitacora     |
 | SEGUEL CARO ANASTASIA SOFÍA               | https://github.com/ansofivv/472499--objeto-bitacora/tree/main |
 | SOTO BARRIENTOS PAOLA LISSETH             | https://github.com/lisseth9895/472499-objeto-bitacora         |
-| SOTO NORAMBUENA JONATHAN NICOLÁS          |                                                               |
+| SOTO NORAMBUENA JONATHAN NICOLÁS          | https://github.com/JSNorambuena/472499-objeto-bitacora        |
 | VARGAS GONZÁLEZ ANAIZ TAMAR               | https://github.com/anaizvargas/472499-objeto.bitacora         |
 | JAZMIN CATALINA DEL CARMEN SANTANDER LEÓN | https://github.com/JazHachi/472499-Objeto-Bitacora            |
 | ARCOS ALONDRA                             | https://github.com/alondraarcos-jpg/472499-objeto-bitacora    |
